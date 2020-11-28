@@ -1,4 +1,3 @@
 # bestrepoever
 Testing Readme from VS Code
-editing to creat conflict
-conflict 2
+trying to create another conflict branch3
